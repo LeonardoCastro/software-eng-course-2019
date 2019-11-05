@@ -16,3 +16,5 @@ Some of my favourite maths jokes
 * Who invented the round table? Sir Cumference
 
 * What do you call people who like tractors? Protractors
+
+- Lizhi: ha..ha..ha.....
