@@ -14,3 +14,5 @@ Some of my favourite maths jokes
   “I know” says Bob. “I rounded them up”
 
 * Who invented the round table? Sir Cumference
+
+* My favourite man of mathematics is Galois
