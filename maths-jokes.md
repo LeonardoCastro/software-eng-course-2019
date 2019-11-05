@@ -21,4 +21,12 @@ This is my least favourite, who came up with this?
 
 * Can someone else contribute a joke?
 
+* How can a fisherman determine how many fish he needs to catch to make a profit?
+  By using a cod-ratic inequality.
+
+This is my least favourite, who came up with this? Guilty - Aditi 
+
 - Lizhi: ha..ha..ha.....
+
+*Why did the mathematical tree fall over? Because it had no real roots.
+
