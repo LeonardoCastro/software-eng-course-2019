@@ -16,3 +16,6 @@ Some of my favourite maths jokes
 * Who invented the round table? Sir Cumference
 
 * What do you call people who like tractors? Protractors
+
+* How can a fisherman determine how many fish he needs to catch to make a profit?
+  By using a cod-ratic inequality.
