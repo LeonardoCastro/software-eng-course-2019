@@ -12,3 +12,5 @@ Some of my favourite maths jokes
   He completed his task and went bounding over to the Farmer shouting “Farmer Fred, Farmer Fred…. I chased 40 sheep in to the yard for you”.
   “40 sheep?” queries Farmer Fred. “I’ve only got 37”
   “I know” says Bob. “I rounded them up”
+
+* Who invented the round table? Sir Cumference
