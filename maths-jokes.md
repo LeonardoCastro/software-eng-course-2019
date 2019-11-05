@@ -16,3 +16,5 @@ Some of my favourite maths jokes
 * Who invented the round table? Sir Cumference
 
 * My favourite man of mathematics is Galois
+
+* What do you call people who like tractors? Protractors
