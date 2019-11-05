@@ -17,6 +17,10 @@ great joke
 
 * What do you call people who like tractors? Protractors
 
+This is my least favourite, who came up with this?
+
+* Can someone else contribute a joke?
+
 * How can a fisherman determine how many fish he needs to catch to make a profit?
   By using a cod-ratic inequality.
 
