@@ -32,4 +32,10 @@ This is my least favourite, who came up with this? Guilty - Aditi
 
 - That is a good one.
 
+<<<<<<< HEAD
+* Have you heard about the mathematical plant? It has square roots
+- so shit
+
+
 * Hurry up team mates, i need some more jokes
+
